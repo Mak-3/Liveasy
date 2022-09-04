@@ -650,7 +650,7 @@ color:rgba(126, 110, 110, 0.72);
     margin-top: 5%;
     width: 100px;
     height: 100px;
-    background-image: url('person.png');
+    background-image: url('images/person.png');
     background-size: cover;
     display: block;
     border-radius: 50px;
